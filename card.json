@@ -1,0 +1,34 @@
+{
+    "IDPA_TRAS_BETA_01": [
+        {
+            "name": "Asahi",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329213531.png?updatedAt=1774797816120",
+            "theme": "**Idol Pass**",
+            "print": "0"
+        }
+    ],
+    "IDPA_LSYJ_BETA_01": [
+        {
+            "name": "Yunjin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329221253.png?updatedAt=1774797810706",
+            "theme": "**Idol Pass**",
+            "print": "0"
+        }
+    ],
+    "IDPA_CLKS_BETA_01": [
+        {
+            "name": "Kenshin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329221802.png?updatedAt=1774797810879",
+            "theme": "**Idol Pass**",
+            "print": "0"
+        }
+    ],
+    "IDPA_SACA_BETA_01": [
+        {
+            "name": "Sabrina Carpenter",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329214129.png?updatedAt=1774797817656",
+            "theme": "**Idol Pass**",
+            "print": "0"
+        }
+    ]
+}
