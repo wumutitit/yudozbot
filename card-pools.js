@@ -1,0 +1,9 @@
+{
+"all_themes": [
+    {
+     "card4": "IDPA_TRAS_BETA_01;IDPA_LSYJ_BETA_01;IDPA_CLKS_BETA_01;IDPA_SACA_BETA_01",
+     "card5": "IDPA_SACA_BETA_01;IDPA_CLKS_BETA_01;IDPA_LSYJ_BETA_01;IDPA_TRAS_BETA_01",
+     "card6": "IDPA_CLKS_BETA_01;IDPA_TRAS_BETA_01;IDPA_SACA_BETA_01;IDPA_LSYJ_BETA_01"
+      }
+      ]
+                             }
