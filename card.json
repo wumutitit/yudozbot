@@ -38,5 +38,125 @@
             "theme": "🎀 **ILLIT** Iroha ㅡ **NOT CUTE ANYMORE**",
             "print": "0"
         }
+    ],
+    "KIJL_REM_01": [
+        {
+            "name": "Julie",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kissoflife/rem/julie.png?updatedAt=1774884097177",
+            "theme": "🎀 **KISS OF LIFE** Julie ㅡ **R.E.M**",
+            "print": "0"
+        }
+    ],
+    "KINT_REM_01": [
+        {
+            "name": "Natty",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kissoflife/rem/natty.png?updatedAt=1774884126790",
+            "theme": "🎀 **KISS OF LIFE** Natty ㅡ **R.E.M**",
+            "print": "0"
+        }
+    ],
+    "KIBE_REM_01": [
+        {
+            "name": "Belle",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kissoflife/rem/belle.png?updatedAt=1774884086453",
+            "theme": "🎀 **KISS OF LIFE** Belle ㅡ **R.E.M**",
+            "print": "0"
+        }
+    ],
+    "KIHN_REM_01": [
+        {
+            "name": "Haneul",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kissoflife/rem/haneul.png?updatedAt=1774884112476",
+            "theme": "🎀 **KISS OF LIFE** Haneul ㅡ **R.E.M**",
+            "print": "0"
+        }
+    ],
+    "IZYJ_GOLD_01": [
+        {
+            "name": "Yeji",
+            "image": "https://ik.imagekit.io/xyk34rhb6/itzy/gold/yeji.png?updatedAt=1774883901227",
+            "theme": "🎀 **ITZY** Yeji ㅡ **GOLD**",
+            "print": "0"
+        }
+    ],
+    "IZLI_GOLD_01": [
+        {
+            "name": "Lia",
+            "image": "https://ik.imagekit.io/xyk34rhb6/itzy/gold/lia.png?updatedAt=1774883889181",
+            "theme": "🎀 **ITZY** Lia ㅡ **GOLD**",
+            "print": "0"
+        }
+    ],
+    "IZRJ_GOLD_01": [
+        {
+            "name": "Ryujin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/itzy/gold/ryujin.png?updatedAt=1774883852658",
+            "theme": "🎀 **ITZY** Ryujin ㅡ **GOLD**",
+            "print": "0"
+        }
+    ],
+    "IZCY_GOLD_01": [
+        {
+            "name": "Yeji",
+            "image": "https://ik.imagekit.io/xyk34rhb6/itzy/gold/chaeryeong.png?updatedAt=1774883876760",
+            "theme": "🎀 **ITZY** Chaeryeong ㅡ **GOLD**",
+            "print": "0"
+        }
+    ],
+    "IZYN_GOLD_01": [
+        {
+            "name": "Yeji",
+            "image": "https://ik.imagekit.io/xyk34rhb6/itzy/gold/yuna.png?updatedAt=1774883863016",
+            "theme": "🎀 **ITZY** Yuna ㅡ **GOLD**",
+            "print": "0"
+        }
+    ],
+    "NWSO_STDY_01": [
+        {
+            "name": "Sion",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nctwish/steady/sion.png?updatedAt=1774883596347",
+            "theme": "🎀 **NCT WISH** Sion ㅡ **Steady**",
+            "print": "0"
+        }
+    ],
+    "NWRK_STDY_01": [
+        {
+            "name": "Riku",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nctwish/steady/riku.png?updatedAt=1774883571187",
+            "theme": "🎀 **NCT WISH** Riku ㅡ **Steady**",
+            "print": "0"
+        }
+    ],
+    "NWYS_STDY_01": [
+        {
+            "name": "Yushi",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nctwish/steady/yushi.png?updatedAt=1774883612898",
+            "theme": "🎀 **NCT WISH** Yushi ㅡ **Steady**",
+            "print": "0"
+        }
+    ],
+    "NWJH_STDY_01": [
+        {
+            "name": "Sion",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nctwish/steady/jaehee.png?updatedAt=1774883639714",
+            "theme": "🎀 **NCT WISH** Jaehee ㅡ **Steady**",
+            "print": "0"
+        }
+    ],
+    "NWRY_STDY_01": [
+        {
+            "name": "Ryo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nctwish/steady/ryo.png?updatedAt=1774883625129",
+            "theme": "🎀 **NCT WISH** Ryo ㅡ **Steady**",
+            "print": "0"
+        }
+    ],
+    "NWSK_STDY_01": [
+        {
+            "name": "Sion",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nctwish/steady/sakuya.png?updatedAt=1774883585044",
+            "theme": "🎀 **NCT WISH** Sakuya ㅡ **Steady**",
+            "print": "0"
+        }
     ]
 }
