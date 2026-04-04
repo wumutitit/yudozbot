@@ -614,5 +614,117 @@
             "theme": "🎀 `BMPH_PSYC_01` | **BABYMONSTER** Pharita ㅡ **PSYCHO**",
             "print": "0"
         }
+    ],
+    "ZBJW_ROSES_01": [
+        {
+            "name": "Kim Jiwoong",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123244.png?updatedAt=1775107706021",
+            "theme": "🎀 `ZBJW_ROSES_01` | **ZEROBASEONE** Kim Jiwoong ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBHB_ROSES_01": [
+        {
+            "name": "Sung Hanbin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123226.png?updatedAt=1775107705513",
+            "theme": "🎀 `ZBHB_ROSES_01` | **ZEROBASEONE** Sung Hanbin ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBZH_ROSES_01": [
+        {
+            "name": "Zhanghao",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123407.png?updatedAt=1775107704808",
+            "theme": "🎀 `ZBZH_ROSES_01` | **ZEROBASEONE** Zhanghao ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBMT_ROSES_01": [
+        {
+            "name": "Seok Matthew",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123429.png?updatedAt=1775107706048",
+            "theme": "🎀 `ZBMT_ROSES_01` | **ZEROBASEONE** Seok Matthew ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBRI_ROSES_01": [
+        {
+            "name": "Ricky",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123456.png?updatedAt=1775107706088",
+            "theme": "🎀 `ZBRI_ROSES_01` | **ZEROBASEONE** Ricky ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBTR_ROSES_01": [
+        {
+            "name": "Kim Taerae",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123445.png?updatedAt=1775107703419",
+            "theme": "🎀 `ZBTR_ROSES_01` | **ZEROBASEONE** Kim Taerae ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBGV_ROSES_01": [
+        {
+            "name": "Kim Gyuvin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123508.png?updatedAt=1775107704807",
+            "theme": "🎀 `ZBGV_ROSES_01` | **ZEROBASEONE** Kim Gyuvin ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBGW_ROSES_01": [
+        {
+            "name": "Park Gunwook",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123526.png?updatedAt=1775107704917",
+            "theme": "🎀 `ZBGW_ROSES_01` | **ZEROBASEONE** Park Gunwook ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "ZBYJ_ROSES_01": [
+        {
+            "name": "Han Yujin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/zerobaseone/Untitled52_20260402123546.png?updatedAt=1775107705878",
+            "theme": "🎀 `ZBYJ_ROSES_01` | **ZEROBASEONE** Han Yujin ㅡ **ROSES**",
+            "print": "0"
+        }
+    ],
+    "SLCH_XMCL_01": [
+        {
+            "name": "CHUU",
+            "image": "https://ik.imagekit.io/xyk34rhb6/chuu/xmcl/chuu.png?updatedAt=1774884536881",
+            "theme": "🎀 `SLCH_XMCL_01` | **SOLOIST** CHUU ㅡ **XO, My Cyberlove**",
+            "print": "0"
+        }
+    ],
+    "SLCL_FRESH_01": [
+        {
+            "name": "CHUEI LIYU",
+            "image": "https://ik.imagekit.io/xyk34rhb6/chueiliyu/Untitled47_20260402061023.png?updatedAt=1775083118741",
+            "theme": "🎀 `SLCL_FRESH_01` | **SOLOIST** CHUEI LIYU ㅡ **Fresh**",
+            "print": "0"
+        }
+    ],
+    "SLIR_BIFA_01": [
+        {
+            "name": "IRENE",
+            "image": "https://ik.imagekit.io/xyk34rhb6/irene/Untitled47_20260402061000.png?updatedAt=1775083078256",
+            "theme": "🎀 `SLIR_BIFA_01` | **SOLOIST** IRENE ㅡ **Biggest Fan**",
+            "print": "0"
+        }
+    ],
+    "SLYN_ICCR_01": [
+        {
+            "name": "YUNA",
+            "image": "https://ik.imagekit.io/xyk34rhb6/yunaitzy/Untitled47_20260402060942.png?updatedAt=1775082583905",
+            "theme": "🎀 `SLYN_ICCR_01` | **SOLOIST** YUNA ㅡ **Ice Cream**",
+            "print": "0"
+        }
+    ],
+    "SLYN_CACA_01": [
+        {
+            "name": "YUNA",
+            "image": "https://ik.imagekit.io/xyk34rhb6/yena/Untitled51_20260402111402.png?updatedAt=1775107354764",
+            "theme": "🎀 `SLYN_CACA_01` | **SOLOIST** YENA ㅡ **Catch Catch**",
+            "print": "0"
+        }
     ]
 }
