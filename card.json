@@ -158,5 +158,173 @@
             "theme": "🎀 `NWSK_STDY_01` | **NCT WISH** Sakuya ㅡ **Steady**",
             "print": "0"
         }
+    ],
+    "H2CM_RUDE_01": [
+        {
+            "name": "Carmen",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/carmen.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2CM_RUDE_01` | **Hearts2Hearts** Carmen ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "H2JW_RUDE_01": [
+        {
+            "name": "Jiwoo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/jiwoo.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2JW_RUDE_01` | **Hearts2Hearts** Jiwoo ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "H2YH_RUDE_01": [
+        {
+            "name": "Yuha",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/yuha.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2YH_RUDE_01` | **Hearts2Hearts** Yuha ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "H2ST_RUDE_01": [
+        {
+            "name": "Stella",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/stella.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2ST_RUDE_01` | **Hearts2Hearts** Stella ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "H2JU_RUDE_01": [
+        {
+            "name": "Juun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/juun.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2JU_RUDE_01` | **Hearts2Hearts** Juun ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "H2AN_RUDE_01": [
+        {
+            "name": "A-na",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/a-na.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2AN_RUDE_01` | **Hearts2Hearts** A-na ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "H2IA_RUDE_01": [
+        {
+            "name": "Ian",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/ian.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2IA_RUDE_01` | **Hearts2Hearts** Ian ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "H2YO_RUDE_01": [
+        {
+            "name": "Ye-on",
+            "image": "https://ik.imagekit.io/xyk34rhb6/hearts2hearts/rude/ye-on.png?updatedAt=1774883084808",
+            "theme": "🎀 `H2YO_RUDE_01` | **Hearts2Hearts** Ye-on ㅡ **RUDE!**",
+            "print": "0"
+        }
+    ],
+    "CTJA_GO_01": [
+        {
+            "name": "James",
+            "image": "https://ik.imagekit.io/xyk34rhb6/cortis/Untitled57_20260402124422.png?updatedAt=1775107153169",
+            "theme": "🎀 `CTJA_GO_01` | **CORTIS** James ㅡ **GO!**",
+            "print": "0"
+        }
+    ],
+    "CTMT_GO_01": [
+        {
+            "name": "Martin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/cortis/Untitled57_20260402124401.png?updatedAt=1775107154304",
+            "theme": "🎀 `CTMT_GO_01` | **CORTIS** Martin ㅡ **GO!**",
+            "print": "0"
+        }
+    ],
+    "CTJU_GO_01": [
+        {
+            "name": "Juhoon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/cortis/Untitled57_20260402124434.png?updatedAt=1775107154417",
+            "theme": "🎀 `CTJU_GO_01` | **CORTIS** Juhoon ㅡ **GO!**",
+            "print": "0"
+        }
+    ],
+    "CTSH_GO_01": [
+        {
+            "name": "Seonghyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/cortis/Untitled57_20260402124445.png?updatedAt=1775107152387",
+            "theme": "🎀 `CTSH_GO_01` | **CORTIS** Seonghyeon ㅡ **GO!**",
+            "print": "0"
+        }
+    ],
+    "CTKH_GO_01": [
+        {
+            "name": "Keonho",
+            "image": "https://ik.imagekit.io/xyk34rhb6/cortis/Untitled57_20260402124457.png?updatedAt=1775107154492",
+            "theme": "🎀 `CTKH_GO_01` | **CORTIS** Keonho ㅡ **GO!**",
+            "print": "0"
+        }
+    ],
+    "ENHS_KNIFE_01": [
+        {
+            "name": "Heeseung",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402061454.png?updatedAt=1775082223934",
+            "theme": "🎀 `ENHS_KNIFE_01` | **ENHYPEN** Heeseung ㅡ **Knife**",
+            "print": "0"
+        }
+    ],
+    "ENJA_KNIFE_01": [
+        {
+            "name": "Jay",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402061504.png?updatedAt=1775082224029",
+            "theme": "🎀 `ENHS_KNIFE_01` | **ENHYPEN** Jay ㅡ **Knife**",
+            "print": "0"
+        }
+    ],
+    "ENJK_KNIFE_01": [
+        {
+            "name": "Jake",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402061512.png?updatedAt=1775082223989",
+            "theme": "🎀 `ENHS_KNIFE_01` | **ENHYPEN** Jake ㅡ **Knife**",
+            "print": "0"
+        }
+    ],
+    "ENSH_KNIFE_01": [
+        {
+            "name": "Sunghoon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402061522.png?updatedAt=1775082224026",
+            "theme": "🎀 `ENHS_KNIFE_01` | **ENHYPEN** Sunghoon ㅡ **Knife**",
+            "print": "0"
+        }
+    ],
+    "ENSN_KNIFE_01": [
+        {
+            "name": "Sunoo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402061533.png?updatedAt=1775082224814",
+            "theme": "🎀 `ENHS_KNIFE_01` | **ENHYPEN** Sunoo ㅡ **Knife**",
+            "print": "0"
+        }
+    ],
+    "ENJW_KNIFE_01": [
+        {
+            "name": "Jungwon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402062555.png?updatedAt=1775082396518",
+            "theme": "🎀 `ENHS_KNIFE_01` | **ENHYPEN** Jungwon ㅡ **Knife**",
+            "print": "0"
+        }
+    ],
+    "ENNK_KNIFE_01": [
+        {
+            "name": "Ni-ki",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402061542.png?updatedAt=1775082223942",
+            "theme": "🎀 `ENHS_KNIFE_01` | **ENHYPEN** Ni-ki ㅡ **Knife**",
+            "print": "0"
+        }
+    ],
+    "P1TH_UNIQ_01": [
+        {
+            "name": "Theo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/enhypen/Untitled47_20260402061542.png?updatedAt=1775082223942",
+            "theme": "🎀 `P1TH_UNIQ_01` | **P1harmony** Theo ㅡ **Unique**",
+            "print": "0"
+        }
     ]
 }
