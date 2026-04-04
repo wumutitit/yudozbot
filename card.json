@@ -486,5 +486,133 @@
             "theme": "🎀 `ARHJ_ICARUS_01` | **ARTMS** HeeJin ㅡ **Icarus**",
             "print": "0"
         }
+    ],
+    "LSSK_SPGT_01": [
+        {
+            "name": "Sakura",
+            "image": "https://ik.imagekit.io/xyk34rhb6/lesserafim/Untitled47_20260402130834.png?updatedAt=1775107424988",
+            "theme": "🎀 `LSSK_SPGT_01` | **LE SSERAFIM** Sakura ㅡ **SPAGHETTI**",
+            "print": "0"
+        }
+    ],
+    "LSCW_SPGT_01": [
+        {
+            "name": "Chaewon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/lesserafim/Untitled47_20260402130900.png?updatedAt=1775107425640",
+            "theme": "🎀 `LSCW_SPGT_01` | **LE SSERAFIM** Chaewon ㅡ **SPAGHETTI**",
+            "print": "0"
+        }
+    ],
+    "LSYJ_SPGT_01": [
+        {
+            "name": "Yunjin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/lesserafim/Untitled47_20260402130818.png?updatedAt=1775107424114",
+            "theme": "🎀 `LSYJ_SPGT_01` | **LE SSERAFIM** Yunjin ㅡ **SPAGHETTI**",
+            "print": "0"
+        }
+    ],
+    "LSKZ_SPGT_01": [
+        {
+            "name": "Kazuha",
+            "image": "https://ik.imagekit.io/xyk34rhb6/lesserafim/Untitled47_20260402130925.png?updatedAt=1775107425295",
+            "theme": "🎀 `LSKZ_SPGT_01` | **LE SSERAFIM** Kazuha ㅡ **SPAGHETTI**",
+            "print": "0"
+        }
+    ],
+    "LSEC_SPGT_01": [
+        {
+            "name": "Eunchae",
+            "image": "https://ik.imagekit.io/xyk34rhb6/lesserafim/Untitled47_20260402130948.png?updatedAt=1775107424180",
+            "theme": "🎀 `LSEC_SPGT_01` | **LE SSERAFIM** Eunchae ㅡ **SPAGHETTI**",
+            "print": "0"
+        }
+    ],
+    "KKLS_404_01": [
+        {
+            "name": "Leesol",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kiikii/Untitled46_20260402100156.png?updatedAt=1775107597979",
+            "theme": "🎀 `KKLS_404_01` | **KiiiKiii** Leesol ㅡ **404 (New Era)**",
+            "print": "0"
+        }
+    ],
+    "KKSU_404_01": [
+        {
+            "name": "Sui",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kiikii/Untitled46_20260402100216.png?updatedAt=1775107597660",
+            "theme": "🎀 `KKSU_404_01` | **KiiiKiii** Sui ㅡ **404 (New Era)**",
+            "print": "0"
+        }
+    ],
+    "KKJI_404_01": [
+        {
+            "name": "Jiyu",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kiikii/Untitled46_20260402100141.png?updatedAt=1775107596227",
+            "theme": "🎀 `KKJI_404_01` | **KiiiKiii** Jiyu ㅡ **404 (New Era)**",
+            "print": "0"
+        }
+    ],
+    "KKHU_404_01": [
+        {
+            "name": "Haum",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kiikii/Untitled46_20260402100228.png?updatedAt=1775107597386",
+            "theme": "🎀 `KKHU_404_01` | **KiiiKiii** Haum ㅡ **404 (New Era)**",
+            "print": "0"
+        }
+    ],
+    "KKKY_404_01": [
+        {
+            "name": "Kya",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kiikii/Untitled46_20260402100245.png?updatedAt=1775107598335",
+            "theme": "🎀 `KKKY_404_01` | **KiiiKiii** Kya ㅡ **404 (New Era)**",
+            "print": "0"
+        }
+    ],
+    "BMRK_PSYC_01": [
+        {
+            "name": "Ruka",
+            "image": "https://ik.imagekit.io/xyk34rhb6/babymonster/psycho/Untitled47_20260402060725.png?updatedAt=1775082003200",
+            "theme": "🎀 `BMRK_PSYC_01` | **BABYMONSTER** Ruka ㅡ **PSYCHO**",
+            "print": "0"
+        }
+    ],
+    "BMRR_PSYC_01": [
+        {
+            "name": "Rora",
+            "image": "https://ik.imagekit.io/xyk34rhb6/babymonster/psycho/Untitled47_20260402060734.png?updatedAt=1775082003685",
+            "theme": "🎀 `BMRR_PSYC_01` | **BABYMONSTER** Rora ㅡ **PSYCHO**",
+            "print": "0"
+        }
+    ],
+    "BMCQ_PSYC_01": [
+        {
+            "name": "Chiquita",
+            "image": "https://ik.imagekit.io/xyk34rhb6/babymonster/psycho/Untitled47_20260402060833.png?updatedAt=1775082004911",
+            "theme": "🎀 `BMCQ_PSYC_01` | **BABYMONSTER** Chiquita ㅡ **PSYCHO**",
+            "print": "0"
+        }
+    ],
+    "BMAS_PSYC_01": [
+        {
+            "name": "Asa",
+            "image": "https://ik.imagekit.io/xyk34rhb6/babymonster/psycho/Untitled47_20260402060813.png?updatedAt=1775082004373",
+            "theme": "🎀 `BMAS_PSYC_01` | **BABYMONSTER** Asa ㅡ **PSYCHO**",
+            "print": "0"
+        }
+    ],
+    "BMAH_PSYC_01": [
+        {
+            "name": "Ahyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/babymonster/psycho/Untitled47_20260402060823.png?updatedAt=1775082005822",
+            "theme": "🎀 `BMAH_PSYC_01` | **BABYMONSTER** Ahyeon ㅡ **PSYCHO**",
+            "print": "0"
+        }
+    ],
+    "BMPH_PSYC_01": [
+        {
+            "name": "Pharita",
+            "image": "https://ik.imagekit.io/xyk34rhb6/babymonster/psycho/Untitled47_20260402060745.png?updatedAt=1775082004906",
+            "theme": "🎀 `BMPH_PSYC_01` | **BABYMONSTER** Pharita ㅡ **PSYCHO**",
+            "print": "0"
+        }
     ]
 }
