@@ -798,5 +798,45 @@
             "theme": "🎀 `NJHYSP_01` | **NewJeans** Hyein ㅡ **Supernatural**",
             "print": "0"
         }
+    ],
+    "GIMYKX_01": [
+        {
+            "name": "Miyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gidle/Untitled47_20260407135848.png?updatedAt=1775546428401",
+            "theme": "🎀 `GIMYKX_01` | **(G)-IDLE** Miyeon ㅡ **Klaxon**",
+            "print": "0"
+        }
+    ],
+    "GISYKX_01": [
+        {
+            "name": "Soyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gidle/Untitled47_20260407135906.png?updatedAt=1775546428223",
+            "theme": "🎀 `GISYKX_01` | **(G)-IDLE** Soyeon ㅡ **Klaxon**",
+            "print": "0"
+        }
+    ],
+    "GIYQKX_01": [
+        {
+            "name": "Yuqi",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gidle/Untitled47_20260407135919.png?updatedAt=1775546428255",
+            "theme": "🎀 `GIYQKX_01` | **(G)-IDLE** Yuqi ㅡ **Klaxon**",
+            "print": "0"
+        }
+    ],
+    "GIMNKX_01": [
+        {
+            "name": "Minnie",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gidle/Untitled47_20260407135929.png?updatedAt=1775546428781",
+            "theme": "🎀 `GIMNKX_01` | **(G)-IDLE** Minnie ㅡ **Klaxon**",
+            "print": "0"
+        }
+    ],
+    "GISHKX_01": [
+        {
+            "name": "Shuhua",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gidle/Untitled47_20260407135942.png?updatedAt=1775546428329",
+            "theme": "🎀 `GISHKX_01` | **(G)-IDLE** Shuhua ㅡ **Klaxon**",
+            "print": "0"
+        }
     ]
 }
