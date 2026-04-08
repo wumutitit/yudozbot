@@ -721,9 +721,81 @@
     ],
     "SLYN_CACA_01": [
         {
-            "name": "YUNA",
+            "name": "YENA",
             "image": "https://ik.imagekit.io/xyk34rhb6/yena/Untitled51_20260402111402.png?updatedAt=1775107354764",
             "theme": "🎀 `SLYN_CACA_01` | **SOLOIST** YENA ㅡ **Catch Catch**",
+            "print": "0"
+        }
+    ],
+    "D6SJSE_01": [
+        {
+            "name": "Sungjin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/day6/Untitled47_20260407135814.png?updatedAt=1775543757373",
+            "theme": "🎀 `D6SJSE_01` | **DAY6** Sungjin ㅡ **Sad Ending**",
+            "print": "0"
+        }
+    ],
+    "D6YKSE_01": [
+        {
+            "name": "Young K",
+            "image": "https://ik.imagekit.io/xyk34rhb6/day6/Untitled47_20260407135747.png?updatedAt=1775543757346",
+            "theme": "🎀 `D6YKSE_01` | **DAY6** Young K ㅡ **Sad Ending**",
+            "print": "0"
+        }
+    ],
+    "D6WPSE_01": [
+        {
+            "name": "Wonpil",
+            "image": "https://ik.imagekit.io/xyk34rhb6/day6/Untitled47_20260407135735.png?updatedAt=1775543756835",
+            "theme": "🎀 `D6WPSE_01` | **DAY6** Wonpil ㅡ **Sad Ending**",
+            "print": "0"
+        }
+    ],
+    "D6DWSE_01": [
+        {
+            "name": "Dowoon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/day6/Untitled47_20260407135722.png?updatedAt=1775543757390",
+            "theme": "🎀 `D6DWSE_01` | **DAY6** Dowoon ㅡ **Sad Ending**",
+            "print": "0"
+        }
+    ],
+    "NJMJSP_01": [
+        {
+            "name": "Minji",
+            "image": "https://ik.imagekit.io/xyk34rhb6/newjeans/Untitled47_20260407140853.png?updatedAt=1775545968968",
+            "theme": "🎀 `NJMJSP_01` | **NewJeans** Minji ㅡ **Supernatural**",
+            "print": "0"
+        }
+    ],
+    "NJHNSP_01": [
+        {
+            "name": "Hanni",
+            "image": "https://ik.imagekit.io/xyk34rhb6/newjeans/Untitled47_20260407140948.png?updatedAt=1775545968808",
+            "theme": "🎀 `NJHNSP_01` | **NewJeans** Hanni ㅡ **Supernatural**",
+            "print": "0"
+        }
+    ],
+    "NJDNSP_01": [
+        {
+            "name": "Danielle",
+            "image": "https://ik.imagekit.io/xyk34rhb6/newjeans/Untitled47_20260407140907.png?updatedAt=1775545968944",
+            "theme": "🎀 `NJDNSP_01` | **NewJeans** Danielle ㅡ **Supernatural**",
+            "print": "0"
+        }
+    ],
+    "NJHRSP_01": [
+        {
+            "name": "Haerin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/newjeans/Untitled47_20260407140926.png?updatedAt=1775545968921",
+            "theme": "🎀 `NJHRSP_01` | **NewJeans** Haerin ㅡ **Supernatural**",
+            "print": "0"
+        }
+    ],
+    "NJHYSP_01": [
+        {
+            "name": "Hyein",
+            "image": "https://ik.imagekit.io/xyk34rhb6/newjeans/Untitled47_20260407140958.png?updatedAt=1775545967773",
+            "theme": "🎀 `NJHYSP_01` | **NewJeans** Hyein ㅡ **Supernatural**",
             "print": "0"
         }
     ]
