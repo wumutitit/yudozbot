@@ -935,11 +935,75 @@
             "print": "0"
         }
     ],
-    "IVLSAT_01": [
+    "TWNYTF_01": [
         {
-            "name": "Leeseo",
-            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141515.png?updatedAt=1775605982257",
-            "theme": "🎀 `IVLSAT_01` | **IVE** Leeseo ㅡ **ATTITUDE**",
+            "name": "Nayeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141204.png?updatedAt=1775606822001",
+            "theme": "🎀 `TWNYTF_01` | **TWICE** Nayeon ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWJYTF_01": [
+        {
+            "name": "Jeongyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141215.png?updatedAt=1775606821182",
+            "theme": "🎀 `TWJYTF_01` | **TWICE** Jeongyeon ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWMMTF_01": [
+        {
+            "name": "Momo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141258.png?updatedAt=1775606823240",
+            "theme": "🎀 `TWMMTF_01` | **TWICE** Momo ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWSNTF_01": [
+        {
+            "name": "Sana",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141309.png?updatedAt=1775606822436",
+            "theme": "🎀 `TWSNTF_01` | **TWICE** Sana ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWJHTF_01": [
+        {
+            "name": "Jihyo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141318.png?updatedAt=1775606822890",
+            "theme": "🎀 `TWJHTF_01` | **TWICE** Jihyo ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWMNTF_01": [
+        {
+            "name": "Mina",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141328.png?updatedAt=1775606823420",
+            "theme": "🎀 `TWMNTF_01` | **TWICE** Mina ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWDHTF_01": [
+        {
+            "name": "Dahyun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141339.png?updatedAt=1775606822448",
+            "theme": "🎀 `TWDHTF_01` | **TWICE** Dahyun ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWCYTF_01": [
+        {
+            "name": "Chaeyoung",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141352.png?updatedAt=1775606822921",
+            "theme": "🎀 `TWCYTF_01` | **TWICE** Chaeyoung ㅡ **THIS IS FOR**",
+            "print": "0"
+        }
+    ],
+    "TWTZTF_01": [
+        {
+            "name": "Tzuyu",
+            "image": "https://ik.imagekit.io/xyk34rhb6/twice/Untitled47_20260407141401.png?updatedAt=1775606823036",
+            "theme": "🎀 `TWTZTF_01` | **TWICE** Tzuyu ㅡ **THIS IS FOR**",
             "print": "0"
         }
     ]
