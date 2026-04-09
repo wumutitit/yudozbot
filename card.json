@@ -838,5 +838,109 @@
             "theme": "🎀 `GISHKX_01` | **(G)-IDLE** Shuhua ㅡ **Klaxon**",
             "print": "0"
         }
+    ],
+    "GFSWSM_01": [
+        {
+            "name": "Seowon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gfriend/Untitled47_20260407140450.png?updatedAt=1775545193036",
+            "theme": "🎀 `GFSWSM_01` | **G-FRIEND** Seowon ㅡ **Season of Memories**",
+            "print": "0"
+        }
+    ],
+    "GFYRSM_01": [
+        {
+            "name": "Yerin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gfriend/Untitled47_20260407140337.png?updatedAt=1775545193156",
+            "theme": "🎀 `GFYRSM_01` | **G-FRIEND** Yerin ㅡ **Season of Memories**",
+            "print": "0"
+        }
+    ],
+    "GFYJSM_01": [
+        {
+            "name": "Yuju",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gfriend/Untitled47_20260407140313.png?updatedAt=1775545192339",
+            "theme": "🎀 `GFYJSM_01` | **G-FRIEND** Yuju ㅡ **Season of Memories**",
+            "print": "0"
+        }
+    ],
+    "GFEHSM_01": [
+        {
+            "name": "Eunha",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gfriend/Untitled47_20260407140325.png?updatedAt=1775545192266",
+            "theme": "🎀 `GFEHSM_01` | **G-FRIEND** Eunha ㅡ **Season of Memories**",
+            "print": "0"
+        }
+    ],
+    "GFSBSM_01": [
+        {
+            "name": "Sinb",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gfriend/Untitled47_20260407140222.png?updatedAt=1775545192560",
+            "theme": "🎀 `GFSBSM_01` | **G-FRIEND** Sinb ㅡ **Season of Memories**",
+            "print": "0"
+        }
+    ],
+    "GFUMSM_01": [
+        {
+            "name": "Umji",
+            "image": "https://ik.imagekit.io/xyk34rhb6/gfriend/Untitled47_20260407140207.png?updatedAt=1775545193159",
+            "theme": "🎀 `GFUMSM_01` | **G-FRIEND** Umji ㅡ **Season of Memories**",
+            "print": "0"
+        }
+    ],
+    "IVYJAT_01": [
+        {
+            "name": "Yujin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141422.png?updatedAt=1775605981249",
+            "theme": "🎀 `IVYJAT_01` | **IVE** Yujin ㅡ **ATTITUDE**",
+            "print": "0"
+        }
+    ],
+    "IVGAAT_01": [
+        {
+            "name": "Gaeul",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141430.png?updatedAt=1775605982705",
+            "theme": "🎀 `IVGAAT_01` | **IVE** Gaeul ㅡ **ATTITUDE**",
+            "print": "0"
+        }
+    ],
+    "IVLIAT_01": [
+        {
+            "name": "Liz",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141500.png?updatedAt=1775605983248",
+            "theme": "🎀 `IVLIAT_01` | **IVE** Liz ㅡ **ATTITUDE**",
+            "print": "0"
+        }
+    ],
+    "IVWYAT_01": [
+        {
+            "name": "Wonyoung",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141450.png?updatedAt=1775605981461",
+            "theme": "🎀 `IVWYAT_01` | **IVE** Wonyoung ㅡ **ATTITUDE**",
+            "print": "0"
+        }
+    ],
+    "IVREAT_01": [
+        {
+            "name": "Rei",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141440.png?updatedAt=1775605981906",
+            "theme": "🎀 `IVREAT_01` | **IVE** Rei ㅡ **ATTITUDE**",
+            "print": "0"
+        }
+    ],
+    "IVLSAT_01": [
+        {
+            "name": "Leeseo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141515.png?updatedAt=1775605982257",
+            "theme": "🎀 `IVLSAT_01` | **IVE** Leeseo ㅡ **ATTITUDE**",
+            "print": "0"
+        }
+    ],
+    "IVLSAT_01": [
+        {
+            "name": "Leeseo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ive/Untitled47_20260407141515.png?updatedAt=1775605982257",
+            "theme": "🎀 `IVLSAT_01` | **IVE** Leeseo ㅡ **ATTITUDE**",
+            "print": "0"
+        }
     ]
 }
