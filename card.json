@@ -1006,5 +1006,117 @@
             "theme": "🎀 `TWTZTF_01` | **TWICE** Tzuyu ㅡ **THIS IS FOR**",
             "print": "0"
         }
+    ],
+    "A1LEFA_01": [
+        {
+            "name": "Leo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072343.png?updatedAt=1775777873892",
+            "theme": "🎀 `A1LEFA_01` | **ALPHA DRIVE ONE** Leo ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "A1JSFA_01": [
+        {
+            "name": "Junseo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072353.png?updatedAt=1775777873670",
+            "theme": "🎀 `A1JSFA_01` | **ALPHA DRIVE ONE** Junseo ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "A1ARFA_01": [
+        {
+            "name": "Arno",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072404.png?updatedAt=1775777874978",
+            "theme": "🎀 `A1ARFA_01` | **ALPHA DRIVE ONE** Arno ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "A1SWFA_01": [
+        {
+            "name": "Sangwon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072515.png?updatedAt=1775777875720",
+            "theme": "🎀 `A1SWFA_01` | **ALPHA DRIVE ONE** Sangwon ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "A1XLFA_01": [
+        {
+            "name": "Xinlong",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072458.png?updatedAt=1775777875070",
+            "theme": "🎀 `A1XLFA_01` | **ALPHA DRIVE ONE** Xinlong ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "A1AXFA_01": [
+        {
+            "name": "Anxin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072529.png?updatedAt=1775777875384",
+            "theme": "🎀 `A1AXFA_01` | **ALPHA DRIVE ONE** Anxin ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "A1SHFA_01": [
+        {
+            "name": "Sanghyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072543.png?updatedAt=1775777875828",
+            "theme": "🎀 `A1SHFA_01` | **ALPHA DRIVE ONE** Sanghyeon ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "A1GWFA_01": [
+        {
+            "name": "Geonwoo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ald1/freakalarm/Untitled47_20260410072415.png?updatedAt=1775777874805",
+            "theme": "🎀 `A1GWFA_01` | **ALPHA DRIVE ONE** Geonwoo ㅡ **FREAK ALARM**",
+            "print": "0"
+        }
+    ],
+    "IZMABE_01": [
+        {
+            "name": "Mai",
+            "image": "https://ik.imagekit.io/xyk34rhb6/izna/beep/Untitled47_20260410072906.png?updatedAt=1775780249733",
+            "theme": "🎀 `IZMABE_01` | **izna** Mai ㅡ **BEEP**",
+            "print": "0"
+        }
+    ],
+    "IZBJBE_01": [
+        {
+            "name": "Bang Jeemin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/izna/beep/Untitled47_20260410072951.png?updatedAt=1775780249435",
+            "theme": "🎀 `IZBJBE_01` | **izna** Bang Jeemin ㅡ **BEEP**",
+            "print": "0"
+        }
+    ],
+    "IZKOBE_01": [
+        {
+            "name": "Koko",
+            "image": "https://ik.imagekit.io/xyk34rhb6/izna/beep/Untitled47_20260410073000.png?updatedAt=1775780249314",
+            "theme": "🎀 `IZKOBE_01` | **izna** Koko ㅡ **BEEP**",
+            "print": "0"
+        }
+    ],
+    "IZRSBE_01": [
+        {
+            "name": "Ryu Sarang",
+            "image": "https://ik.imagekit.io/xyk34rhb6/izna/beep/Untitled47_20260410073011.png?updatedAt=1775780250681",
+            "theme": "🎀 `IZRSBE_01` | **izna** Ryu Sarang ㅡ **BEEP**",
+            "print": "0"
+        }
+    ],
+    "IZCJBE_01": [
+        {
+            "name": "Choi Jeungeun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/izna/beep/Untitled47_20260410073048.png?updatedAt=1775780248507",
+            "theme": "🎀 `IZCJBE_01` | **izna** Choi Jengeun ㅡ **BEEP**",
+            "print": "0"
+        }
+    ],
+    "IZJSBE_01": [
+        {
+            "name": "Jeong Saebi",
+            "image": "https://ik.imagekit.io/xyk34rhb6/izna/beep/Untitled47_20260410073113.png?updatedAt=1775780248942",
+            "theme": "🎀 `IZJSBE_01` | **izna** Jeong Saebi ㅡ **BEEP**",
+            "print": "0"
+        }
     ]
 }
