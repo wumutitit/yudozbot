@@ -842,9 +842,9 @@
     ],
     "GFSWSM_01": [
         {
-            "name": "Seowon",
+            "name": "Sowon",
             "image": "https://ik.imagekit.io/xyk34rhb6/gfriend/Untitled47_20260407140450.png?updatedAt=1775545193036",
-            "theme": "🎀 `GFSWSM_01` | **G-FRIEND** Seowon ㅡ **Season of Memories**",
+            "theme": "🎀 `GFSWSM_01` | **G-FRIEND** Sowon ㅡ **Season of Memories**",
             "print": "0"
         }
     ],
@@ -1124,7 +1124,7 @@
         {
             "name": "Kenshin",
             "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329221802.png?updatedAt=1774797810879",
-            "theme": "🎀 `IDPA_CLKS_BETA_01` | **Idol Pass** ㅡ Kenshin",
+            "theme": "`IDPA_CLKS_BETA_01` | **Idol Pass** ㅡ Kenshin",
             "print": "0"
         }
     ],
@@ -1132,7 +1132,7 @@
         {
             "name": "Geonwoo",
             "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329212824.png?updatedAt=1774797815911",
-            "theme": "🎀 `IDPA_ADGW_BETA_01` | **Idol Pass** ㅡ Geonwoo",
+            "theme": "`IDPA_ADGW_BETA_01` | **Idol Pass** ㅡ Geonwoo",
             "print": "0"
         }
     ],
@@ -1140,7 +1140,7 @@
         {
             "name": "Yunjin",
             "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329221253.png?updatedAt=1774797810706",
-            "theme": "🎀 `IDPA_LSYJ_BETA_01` | **Idol Pass** ㅡ Yunjin",
+            "theme": "`IDPA_LSYJ_BETA_01` | **Idol Pass** ㅡ Yunjin",
             "print": "0"
         }
     ],
@@ -1148,7 +1148,7 @@
         {
             "name": "Junho",
             "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329213141.png?updatedAt=1774797815680",
-            "theme": "🎀 `IDPA'_DRJU_BETA_01` | **Idol Pass** ㅡ Junho",
+            "theme": "`IDPA'_DRJU_BETA_01` | **Idol Pass** ㅡ Junho",
             "print": "0"
         }
     ],
@@ -1156,7 +1156,7 @@
         {
             "name": "Yena",
             "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329214546.png?updatedAt=1774797815475",
-            "theme": "🎀 `IDPA_SOYN_BETA_01` | **Idol Pass** ㅡ YENA",
+            "theme": "`IDPA_SOYN_BETA_01` | **Idol Pass** ㅡ YENA",
             "print": "0"
         }
     ],
@@ -1164,7 +1164,7 @@
         {
             "name": "Wonhee",
             "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329214809.png?updatedAt=1774797815994",
-            "theme": "🎀 `IDPA_ILWH_BETA_01` | **Idol Pass** ㅡ Wonhee",
+            "theme": "`IDPA_ILWH_BETA_01` | **Idol Pass** ㅡ Wonhee",
             "print": "0"
         }
     ],
@@ -1172,7 +1172,87 @@
         {
             "name": "Umji",
             "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
-            "theme": "🎀 `IDPA_GFUM_BETA_01` | **Idol Pass** ㅡ Umji",
+            "theme": "`IDPA_GFUM_BETA_01` | **Idol Pass** ㅡ Umji",
+            "print": "0"
+        }
+    ],
+    "FLDRST_01": [
+        {
+            "name": "Stella",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRST_01` | **Fluffy Dream** ㅡ Stella",
+            "print": "0"
+        }
+    ],
+    "FLDRRE_01": [
+        {
+            "name": "Rei",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRRE_01` | **Fluffy Dream** ㅡ Rei",
+            "print": "0"
+        }
+    ],
+    "FLDRSG_01": [
+        {
+            "name": "Seulgi",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRSG_01` | **Fluffy Dream** ㅡ Seulgi",
+            "print": "0"
+        }
+    ],
+    "FLDRIS_01": [
+        {
+            "name": "Isa",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRIS_01` | **Fluffy Dream** ㅡ Isa",
+            "print": "0"
+        }
+    ],
+    "FLDRMN_01": [
+        {
+            "name": "Mina",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRMN_01` | **Fluffy Dream** ㅡ Mina",
+            "print": "0"
+        }
+    ],
+    "FLDRSH_01": [
+        {
+            "name": "Seonghyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRSH_01` | **Fluffy Dream** ㅡ Seonghyeon",
+            "print": "0"
+        }
+    ],
+    "FLDRJW_01": [
+        {
+            "name": "Jungwon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRJW_01` | **Fluffy Dream** ㅡ Jungwon",
+            "print": "0"
+        }
+    ],
+    "FLDRSR_01": [
+        {
+            "name": "Shotaro",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRSR_01` | **Fluffy Dream** ㅡ Shotaro",
+            "print": "0"
+        }
+    ],
+    "FLDRBC_01": [
+        {
+            "name": "Bangchan",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRBC_01` | **Fluffy Dream** ㅡ Bangchan",
+            "print": "0"
+        }
+    ],
+    "FLDRSY_01": [
+        {
+            "name": "Shinyu",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRSY_01` | **Fluffy Dream** ㅡ Shinyu",
             "print": "0"
         }
     ]
