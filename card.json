@@ -1327,5 +1327,13 @@
             "theme": "`FLDRHR_01` | **Fluffy Dream** ㅡ Haru",
             "print": "0"
         }
+    ],
+    "FLDRKO_01": [
+        {
+            "name": "Kotoko",
+            "image": "https://ik.imagekit.io/xyk34rhb6/limiteds/fluffydream/puffypuffy_20260407230535.png?updatedAt=1776221097694",
+            "theme": "`FLDRKO_01` | **Fluffy Dream** ㅡ Kotoko",
+            "print": "0"
+        }
     ]
 }
