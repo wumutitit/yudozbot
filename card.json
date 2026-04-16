@@ -1255,5 +1255,77 @@
             "theme": "`FLDRSY_01` | **Fluffy Dream** ㅡ Shinyu",
             "print": "0"
         }
+    ],
+    "FLDRWT_01": [
+        {
+            "name": "Winter",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRWT_01` | **Fluffy Dream** ㅡ Winter",
+            "print": "0"
+        }
+    ],
+    "FLDRBM_01": [
+        {
+            "name": "Bome",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRBM_01` | **Fluffy Dream** ㅡ Bome",
+            "print": "0"
+        }
+    ],
+    "FLDRKY_01": [
+        {
+            "name": "Kya",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRKY_01` | **Fluffy Dream** ㅡ Kya",
+            "print": "0"
+        }
+    ],
+    "FLDRJH_01": [
+        {
+            "name": "Jaehee",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRJH_01` | **Fluffy Dream** ㅡ Jaehee",
+            "print": "0"
+        }
+    ],
+    "FLDRSW_01": [
+        {
+            "name": "Sangwon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRSW_01` | **Fluffy Dream** ㅡ Sangwon",
+            "print": "0"
+        }
+    ],
+    "FLDRJO_01": [
+        {
+            "name": "Jeongwoo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRJO_01` | **Fluffy Dream** ㅡ Jeongwoo",
+            "print": "0"
+        }
+    ],
+    "FLDRMG_01": [
+        {
+            "name": "Mingi",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRMG_01` | **Fluffy Dream** ㅡ Mingi",
+            "print": "0"
+        }
+    ],
+    "FLDRSB_01": [
+        {
+            "name": "Soobin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRSB_01` | **Fluffy Dream** ㅡ Soobin",
+            "print": "0"
+        }
+    ],
+    "FLDRHR_01": [
+        {
+            "name": "Haru",
+            "image": "https://ik.imagekit.io/xyk34rhb6/BETA/idolpass/Untitled33_20260329215342.png?updatedAt=1774797815539",
+            "theme": "`FLDRHR_01` | **Fluffy Dream** ㅡ Haru",
+            "print": "0"
+        }
     ]
 }
