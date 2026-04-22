@@ -1695,5 +1695,109 @@
             "theme": "`IEMEHZ_01` | **ifeye** Meu ㅡ **Hazy (Daisy)**",
             "print": "0"
         }
+    ],
+    "EVKEHD_01": [
+        {
+            "name": "Keita",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223831.png?updatedAt=1776753059978",
+            "theme": "`EVKEHD_01` | **EVNNE** Keita ㅡ **How Can I Do**",
+            "print": "0"
+        }
+    ],
+    "EVPHHD_01": [
+        {
+            "name": "Park Hanbin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223845.png?updatedAt=1776753059386",
+            "theme": "`EVPHHD_01` | **EVNNE** Park Hanbin ㅡ **How Can I Do**",
+            "print": "0"
+        }
+    ],
+    "EVMJHD_01": [
+        {
+            "name": "Mun Junghyun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223929.png?updatedAt=1776753059663",
+            "theme": "`EVMJHD_01` | **EVNNE** Mun Junghyun ㅡ **How Can I Do**",
+            "print": "0"
+        }
+    ],
+    "EVPJHD_01": [
+        {
+            "name": "Park Jihoo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223938.png?updatedAt=1776753058165",
+            "theme": "`EVPJHD_01` | **EVNNE** Park Jihoo ㅡ **How Can I Do**",
+            "print": "0"
+        }
+    ],
+    "EVYSHD_01": [
+        {
+            "name": "Yoo Seungeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223906.png?updatedAt=1776753059235",
+            "theme": "`EVYSHD_01` | **EVNNE** Yoo Seungeon ㅡ **How Can I Do**",
+            "print": "0"
+        }
+    ],
+    "EVJYHD_01": [
+        {
+            "name": "Ji Yunseo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`EVJYHD_01` | **EVNNE** Ji Yunseo ㅡ **How Can I Do**",
+            "print": "0"
+        }
+    ],
+    "CLJMPO_01": [
+        {
+            "name": "Jeon Minwook",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`CLJMPO_01` | **CLOSE YOUR EYES** Jeon Minwook ㅡ **POSE**",
+            "print": "0"
+        }
+    ],
+    "CLMJPO_01": [
+        {
+            "name": "Ma Jingxiang",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`CLMJPO_01` | **CLOSE YOUR EYES** Ma Jingxiang ㅡ **POSE**",
+            "print": "0"
+        }
+    ],
+    "CLJYPO_01": [
+        {
+            "name": "Jang Yeojun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`CLJYPO_01` | **CLOSE YOUR EYES** Jang Yeojun ㅡ **POSE**",
+            "print": "0"
+        }
+    ],
+    "CLSEPO_01": [
+        {
+            "name": "Kim Sungmin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`CLSEPO_01` | **CLOSE YOUR EYES** Kim Sungmin ㅡ **POSE**",
+            "print": "0"
+        }
+    ],
+    "CLSSPO_01": [
+        {
+            "name": "Song Seungho",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`CLSSPO_01` | **CLOSE YOUR EYES** Song Seungho ㅡ **POSE**",
+            "print": "0"
+        }
+    ],
+    "CLKSPO_01": [
+        {
+            "name": "Kenshin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`CLKSPO_01` | **CLOSE YOUR EYES** Kenshin ㅡ **POSE**",
+            "print": "0"
+        }
+    ],
+    "CLSKPO_01": [
+        {
+            "name": "Seo Kyoungbae",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223917.png?updatedAt=1776753059641",
+            "theme": "`CLSKPO_01` | **CLOSE YOUR EYES** Seo Kyoungbae ㅡ **POSE**",
+            "print": "0"
+        }
     ]
 }
