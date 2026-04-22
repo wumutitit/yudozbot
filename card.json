@@ -1511,5 +1511,149 @@
             "theme": "`NMKJBV_01` | **NMIXX** Kyujin ㅡ **Blue Valentine**",
             "print": "0"
         }
+    ],
+    "RVIRCM_01": [
+        {
+            "name": "Irene",
+            "image": "https://ik.imagekit.io/xyk34rhb6/redvelvet/cosmic/Untitled47_Restored_20260420182339.png?updatedAt=1776734124849",
+            "theme": "`RVIRCM_01` | **Red Velvet** Irene ㅡ **Cosmic**",
+            "print": "0"
+        }
+    ],
+    "RVSGCM_01": [
+        {
+            "name": "Seulgi",
+            "image": "https://ik.imagekit.io/xyk34rhb6/redvelvet/cosmic/Untitled47_Restored_20260420182400.png?updatedAt=1776734125389",
+            "theme": "`RVSGCM_01` | **Red Velvet** Seulgi ㅡ **Cosmic**",
+            "print": "0"
+        }
+    ],
+    "RVWDCM_01": [
+        {
+            "name": "Wendy",
+            "image": "https://ik.imagekit.io/xyk34rhb6/redvelvet/cosmic/Untitled47_Restored_20260420182416.png?updatedAt=1776734124453",
+            "theme": "`RVWDCM_01` | **Red Velvet** Wendy ㅡ **Cosmic**",
+            "print": "0"
+        }
+    ],
+    "RVJOCM_01": [
+        {
+            "name": "Joy",
+            "image": "https://ik.imagekit.io/xyk34rhb6/redvelvet/cosmic/Untitled47_Restored_20260420182430.png?updatedAt=1776734124934",
+            "theme": "`RVJOCM_01` | **Red Velvet** Joy ㅡ **Cosmic**",
+            "print": "0"
+        }
+    ],
+    "RVYRCM_01": [
+        {
+            "name": "Yeri",
+            "image": "https://ik.imagekit.io/xyk34rhb6/redvelvet/cosmic/Untitled47_Restored_20260420182443.png?updatedAt=1776734125341",
+            "theme": "`RVYRCM_01` | **Red Velvet** Yeri ㅡ **Cosmic**",
+            "print": "0"
+        }
+    ],
+    "TXYJSY_01": [
+        {
+            "name": "Yeonjun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224519.png?updatedAt=1776751974211",
+            "theme": "`TXYJSY_01` | **TOMORROW X TOGETHER** Yeonjun ㅡ **Stick With You**",
+            "print": "0"
+        }
+    ],
+    "TXSBSY_01": [
+        {
+            "name": "Soobin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224506.png?updatedAt=1776751974488",
+            "theme": "`TXSBSY_01` | **TOMORROW X TOGETHER** Soobin ㅡ **Stick With You**",
+            "print": "0"
+        }
+    ],
+    "TXTHSY_01": [
+        {
+            "name": "Taehyun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224540.png?updatedAt=1776751974970",
+            "theme": "`TXTHSY_01` | **TOMORROW X TOGETHER** Taehyun ㅡ **Stick With You**",
+            "print": "0"
+        }
+    ],
+    "TXBGSY_01": [
+        {
+            "name": "Beomgyu",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224529.png?updatedAt=1776751973441",
+            "theme": "`TXBGSY_01` | **TOMORROW X TOGETHER** Beomgyu ㅡ **Stick With You**",
+            "print": "0"
+        }
+    ],
+    "TXHKSY_01": [
+        {
+            "name": "Huening Kai",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224600.png?updatedAt=1776751974688",
+            "theme": "`TXHKSY_01` | **TOMORROW X TOGETHER** Huening Kai ㅡ **Stick With You**",
+            "print": "0"
+        }
+    ],
+    "MEGWBU_01": [
+        {
+            "name": "Gawon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224600.png?updatedAt=1776751974688",
+            "theme": "`MEGWBU_01` | **MEOVV** Gawon ㅡ **BURNING UP**",
+            "print": "0"
+        }
+    ],
+    "MEGWBU_01": [
+        {
+            "name": "Gawon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224600.png?updatedAt=1776751974688",
+            "theme": "`MEGWBU_01` | **MEOVV** Gawon ㅡ **BURNING UP**",
+            "print": "0"
+        }
+    ],
+    "MEGWBU_01": [
+        {
+            "name": "Gawon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224600.png?updatedAt=1776751974688",
+            "theme": "`MEGWBU_01` | **MEOVV** Gawon ㅡ **BURNING UP**",
+            "print": "0"
+        }
+    ],
+    "MEGWBU_01": [
+        {
+            "name": "Gawon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/meovv/burningup/Untitled77_20260416230728.png?updatedAt=1776752225131",
+            "theme": "`MEGWBU_01` | **MEOVV** Gawon ㅡ **BURNING UP**",
+            "print": "0"
+        }
+    ],
+    "MESOBU_01": [
+        {
+            "name": "Sooin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/meovv/burningup/Untitled77_20260416222749.png?updatedAt=1776752225470",
+            "theme": "`MESOBU_01` | **MEOVV** Sooin ㅡ **BURNING UP**",
+            "print": "0"
+        }
+    ],
+    "MEANBU_01": [
+        {
+            "name": "Anna",
+            "image": "https://ik.imagekit.io/xyk34rhb6/meovv/burningup/Untitled77_20260418233902.png?updatedAt=1776752225071",
+            "theme": "`MEANBU_01` | **MEOVV** Anna ㅡ **BURNING UP**",
+            "print": "0"
+        }
+    ],
+    "MENRBU_01": [
+        {
+            "name": "Narin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/meovv/burningup/Untitled77_20260416222940.png?updatedAt=1776752226074",
+            "theme": "`MENRBU_01` | **MEOVV** Narin ㅡ **BURNING UP**",
+            "print": "0"
+        }
+    ],
+    "MEELBU_01": [
+        {
+            "name": "Ella",
+            "image": "https://ik.imagekit.io/xyk34rhb6/meovv/burningup/Untitled77_20260416222954.png?updatedAt=1776752225413",
+            "theme": "`MEELBU_01` | **MEOVV** Ella ㅡ **BURNING UP**",
+            "print": "0"
+        }
     ]
 }
