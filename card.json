@@ -1655,5 +1655,45 @@
             "theme": "`MEELBU_01` | **MEOVV** Ella ㅡ **BURNING UP**",
             "print": "0"
         }
+    ],
+    "IEKSHZ_01": [
+        {
+            "name": "Kasia",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ifeye/Untitled72_20260416223238.png?updatedAt=1776752393275",
+            "theme": "`IEKSHZ_01` | **ifeye** Kasia ㅡ **Hazy (Daisy)**",
+            "print": "0"
+        }
+    ],
+    "IETRHZ_01": [
+        {
+            "name": "Taerin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ifeye/Untitled72_20260416223259.png?updatedAt=1776752394199",
+            "theme": "`IETRHZ_01` | **ifeye** Taerin ㅡ **Hazy (Daisy)**",
+            "print": "0"
+        }
+    ],
+    "IEWHHZ_01": [
+        {
+            "name": "Won Hwayeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ifeye/Untitled72_20260416223248.png?updatedAt=1776752393192",
+            "theme": "`IEWHHZ_01` | **ifeye** Won Hwayeon ㅡ **Hazy (Daisy)**",
+            "print": "0"
+        }
+    ],
+    "IERHHZ_01": [
+        {
+            "name": "Rahee",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ifeye/Untitled72_20260416223306.png?updatedAt=1776752393391",
+            "theme": "`IEKRHZ_01` | **ifeye** Rahee ㅡ **Hazy (Daisy)**",
+            "print": "0"
+        }
+    ],
+    "IEMEHZ_01": [
+        {
+            "name": "Meu",
+            "image": "https://ik.imagekit.io/xyk34rhb6/ifeye/Untitled72_20260416223320.png?updatedAt=1776752393491",
+            "theme": "`IEMEHZ_01` | **ifeye** Meu ㅡ **Hazy (Daisy)**",
+            "print": "0"
+        }
     ]
 }
