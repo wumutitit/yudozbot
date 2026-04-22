@@ -1335,5 +1335,181 @@
             "theme": "`FLDRKO_01` | **Fluffy Dream** ㅡ Kotoko",
             "print": "0"
         }
+    ],
+    "SKBCDI_01": [
+        {
+            "name": "Bangchan",
+            "image": "https://ik.imagekit.io/xyk34rhb6/straykids/doit/Untitled47_Restored_20260420181344.png?updatedAt=1776733905742",
+            "theme": "`SKBCDI_01` | **Stray Kids** Bangchan ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "SKLKDI_01": [
+        {
+            "name": "Lee Know",
+            "image": "https://ik.imagekit.io/xyk34rhb6/straykids/doit/Untitled47_Restored_20260420181355.png?updatedAt=1776733906885",
+            "theme": "`SKLKDI_01` | **Stray Kids** Lee Know ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "SKCBDI_01": [
+        {
+            "name": "Changbin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/straykids/doit/Untitled47_Restored_20260420181409.png?updatedAt=1776733907083",
+            "theme": "`SKCBDI_01` | **Stray Kids** Changbin ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "SKHJDI_01": [
+        {
+            "name": "Hyunjin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/straykids/doit/Untitled47_Restored_20260420181420.png?updatedAt=1776733907318",
+            "theme": "`SKHJDI_01` | **Stray Kids** Hyunjin ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "SKHADI_01": [
+        {
+            "name": "Han",
+            "image": "https://ik.imagekit.io/xyk34rhb6/straykids/doit/Untitled47_Restored_20260420181430.png?updatedAt=1776733907388",
+            "theme": "`SKHADI_01` | **Stray Kids** Han ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "SKFLDI_01": [
+        {
+            "name": "Felix",
+            "image": "https://ik.imagekit.io/xyk34rhb6/straykids/doit/Untitled47_Restored_20260420181440.png?updatedAt=1776733907690",
+            "theme": "`SKFLDI_01` | **Stray Kids** Felix ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "SKSMDI_01": [
+        {
+            "name": "Seungmin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/limiteds/fluffydream/puffypuffy_20260407230535.png?updatedAt=1776221097694",
+            "theme": "`SKSMDI_01` | **Stray Kids** Seungmin ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "SKINDI_01": [
+        {
+            "name": "I.N",
+            "image": "https://ik.imagekit.io/xyk34rhb6/straykids/doit/Untitled47_Restored_20260420181449.png?updatedAt=1776733908199",
+            "theme": "`SKINDI_01` | **Stray Kids** I.N ㅡ **DO IT**",
+            "print": "0"
+        }
+    ],
+    "GGTYF1_01": [
+        {
+            "name": "Taeyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420182019.png?updatedAt=1776733976120",
+            "theme": "`GGTYF1_01` | **Girls Generation** Taeyeon ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "GGSUF1_01": [
+        {
+            "name": "Sunny",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420182007.png?updatedAt=1776733975238",
+            "theme": "`GGSUF1_01` | **Girls Generation** Sunny ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "GGTIF1_01": [
+        {
+            "name": "Tiffany",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420181954.png?updatedAt=1776733975087",
+            "theme": "`GGTIF1_01` | **Girls Generation** Tiffany ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "GGHYF1_01": [
+        {
+            "name": "Hyoyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420181944.png?updatedAt=1776733974976",
+            "theme": "`GGHYF1_01` | **Girls Generation** Hyoyeon ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "GGYRF1_01": [
+        {
+            "name": "Yuri",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420181936.png?updatedAt=1776733974916",
+            "theme": "`GGYRF1_01` | **Girls Generation** Yuri ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "GGSYF1_01": [
+        {
+            "name": "Sooyoung",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420181925.png?updatedAt=1776733974849",
+            "theme": "`GGSYF1_01` | **Girls Generation** Sooyoung ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "GGYNF1_01": [
+        {
+            "name": "Yoona",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420181915.png?updatedAt=1776733975103",
+            "theme": "`GGYNF1_01` | **Girls Generation** Yoona ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "GGSHF1_01": [
+        {
+            "name": "Seohyun",
+            "image": "https://ik.imagekit.io/xyk34rhb6/girlsgeneration/forever1/Untitled47_Restored_20260420181905.png?updatedAt=1776733974958",
+            "theme": "`GGSHF1_01` | **Girls Generation** Seohyun ㅡ **FOREVER 1**",
+            "print": "0"
+        }
+    ],
+    "NMLLBV_01": [
+        {
+            "name": "Lily",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nmixx/bluevalentine/Untitled47_Restored_20260420182044.png?updatedAt=1776734038467",
+            "theme": "`NMLLBV_01` | **NMIXX** Lily ㅡ **Blue Valentine**",
+            "print": "0"
+        }
+    ],
+    "NMHWBV_01": [
+        {
+            "name": "Haewon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nmixx/bluevalentine/Untitled47_Restored_20260420182052.png?updatedAt=1776734038640",
+            "theme": "`NMHWBV_01` | **NMIXX** Haewon ㅡ **Blue Valentine**",
+            "print": "0"
+        }
+    ],
+    "NMSLBV_01": [
+        {
+            "name": "Sullyoon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nmixx/bluevalentine/Untitled47_Restored_20260420182100.png?updatedAt=1776734038760",
+            "theme": "`NMSLBV_01` | **NMIXX** Sullyoon ㅡ **Blue Valentine**",
+            "print": "0"
+        }
+    ],
+    "NMBABV_01": [
+        {
+            "name": "Bae",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nmixx/bluevalentine/Untitled47_Restored_20260420182108.png?updatedAt=1776734038875",
+            "theme": "`NMBABV_01` | **NMIXX** Bae ㅡ **Blue Valentine**",
+            "print": "0"
+        }
+    ],
+    "NMJWBV_01": [
+        {
+            "name": "Jiwoo",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nmixx/bluevalentine/Untitled47_Restored_20260420182156.png?updatedAt=1776734039863",
+            "theme": "`NMJWBV_01` | **NMIXX** Jiwoo ㅡ **Blue Valentine**",
+            "print": "0"
+        }
+    ],
+    "NMKJBV_01": [
+        {
+            "name": "Kyujin",
+            "image": "https://ik.imagekit.io/xyk34rhb6/nmixx/bluevalentine/Untitled47_Restored_20260420182205.png?updatedAt=1776734039658",
+            "theme": "`NMKJBV_01` | **NMIXX** Kyujin ㅡ **Blue Valentine**",
+            "print": "0"
+        }
     ]
 }
