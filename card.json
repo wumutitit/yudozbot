@@ -1815,5 +1815,29 @@
             "theme": "`SLJSFF_01` | **SOLOIST** JEON SOMI ㅡ **Fast Forward**",
             "print": "0"
         }
+    ],
+    "XHXOGL_01": [
+        {
+            "name": "XngHan",
+            "image": "https://ik.imagekit.io/xyk34rhb6/seunghan&soul/Untitled279_20260421214104.png?updatedAt=1776916737623",
+            "theme": "`XHXOGL_01` | **XngHan&Xoul** XngHan ㅡ **Glow**",
+            "print": "0"
+        }
+    ],
+    "SLKMFF_01": [
+        {
+            "name": "KANGMIN",
+            "image": "https://ik.imagekit.io/xyk34rhb6/kangmin/Untitled279_20260418230910.png",
+            "theme": "`SLKMFF_01` | **SOLOIST** KANGMIN ㅡ **Free Falling**",
+            "print": "0"
+        }
+    ],
+    "SLKEHT_01": [
+        {
+            "name": "KEY",
+            "image": "https://ik.imagekit.io/xyk34rhb6/key/Untitled47_Restored_20260421002232.png",
+            "theme": "`SLKEHT_01` | **SOLOIST** KEY ㅡ **Hunter**",
+            "print": "0"
+        }
     ]
 }
