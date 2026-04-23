@@ -1603,22 +1603,6 @@
     "MEGWBU_01": [
         {
             "name": "Gawon",
-            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224600.png?updatedAt=1776751974688",
-            "theme": "`MEGWBU_01` | **MEOVV** Gawon ㅡ **BURNING UP**",
-            "print": "0"
-        }
-    ],
-    "MEGWBU_01": [
-        {
-            "name": "Gawon",
-            "image": "https://ik.imagekit.io/xyk34rhb6/txt/stickwithyou/Untitled59_20260416224600.png?updatedAt=1776751974688",
-            "theme": "`MEGWBU_01` | **MEOVV** Gawon ㅡ **BURNING UP**",
-            "print": "0"
-        }
-    ],
-    "MEGWBU_01": [
-        {
-            "name": "Gawon",
             "image": "https://ik.imagekit.io/xyk34rhb6/meovv/burningup/Untitled77_20260416230728.png?updatedAt=1776752225131",
             "theme": "`MEGWBU_01` | **MEOVV** Gawon ㅡ **BURNING UP**",
             "print": "0"
@@ -1709,6 +1693,14 @@
             "name": "Park Hanbin",
             "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223845.png?updatedAt=1776753059386",
             "theme": "`EVPHHD_01` | **EVNNE** Park Hanbin ㅡ **How Can I Do**",
+            "print": "0"
+        }
+    ],
+    "EVLJHD_01": [
+        {
+            "name": "Lee Jeonghyeon",
+            "image": "https://ik.imagekit.io/xyk34rhb6/evnne/howcanido/Untitled71_20260416223855.png?updatedAt=1776753059516",
+            "theme": "`EVLJHD_01` | **EVNNE** Lee Jeonghyeon ㅡ **How Can I Do**",
             "print": "0"
         }
     ],
