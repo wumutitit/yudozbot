@@ -1799,5 +1799,21 @@
             "theme": "`CLSKPO_01` | **CLOSE YOUR EYES** Seo Kyoungbae ㅡ **POSE**",
             "print": "0"
         }
+    ],
+    "SLTYTX_01": [
+        {
+            "name": "TAEYEON",
+            "image": "https://ik.imagekit.io/xyk34rhb6/taeyeon/tox/Untitled47_Restored_20260420182257.png",
+            "theme": "`SLTYTX_01` | **SOLOIST** TAEYEON ㅡ **To.X**",
+            "print": "0"
+        }
+    ],
+    "SLJSFF_01": [
+        {
+            "name": "JEON SOMI",
+            "image": "https://ik.imagekit.io/xyk34rhb6/jeonsomi/Untitled47_Restored_20260420182246.png",
+            "theme": "`SLJSFF_01` | **SOLOIST** JEON SOMI ㅡ **Fast Forward**",
+            "print": "0"
+        }
     ]
 }
